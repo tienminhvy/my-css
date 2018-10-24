@@ -4,3 +4,11 @@ All Right Reserved - Do Not Disturb
 Made with <3 by Vy Dev
 */
 
+html {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: Tahoma, Arial, "Open Sans";
+}
